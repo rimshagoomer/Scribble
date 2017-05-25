@@ -1,0 +1,4 @@
+
+
+
+create_labels(myscript());
